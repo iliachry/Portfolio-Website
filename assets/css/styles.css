@@ -507,43 +507,35 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__laravel{
+.skills__unity{
     width: 80%;
 }
 
-.skills__django{
-    width: 60%;
-}
-
-.skills__php{
-    width: 80%;
-}
-
-.skills__typescript{
+.skills__cs{
     width: 70%;
 }
 
-.skills__react{
+.skills__python{
     width: 70%;
 }
 
-.skills__material{
+.skills__tensorflow{
     width: 60%;
 }
 
-.skills__javascript{
+.skills__matlab{
     width: 80%;
 }
 
-.skills__formik{
+.skills__signal-processing{
+    width: 70%;
+}
+
+.skills__mathematics{
     width: 60%;
 }
 
-.skills__mysql{
-    width: 80%;
-}
-
-.skills__graphql{
+.skills__latex{
     width: 70%;
 }
 
@@ -603,6 +595,7 @@ img{
 .qualification__calendar{
     font-size: var(--smaller-font-size);
     color: var(--text-color-light);
+    white-space: normal;
 }
 
 .qualification__rounder{
